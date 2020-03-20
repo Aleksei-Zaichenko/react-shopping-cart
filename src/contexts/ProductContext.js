@@ -1,3 +1,3 @@
 import {createContext} from 'react';
 
-export const FamilyContext = createContext();
+export const ProductContext = createContext();
